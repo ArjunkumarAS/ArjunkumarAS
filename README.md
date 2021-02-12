@@ -1,9 +1,6 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  I am [Arjun Kumar A S](https://www.linkedin.com/in//)
 
 
-<!--
-**ganapathyda/ganapathyda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
@@ -33,8 +30,8 @@ Here are some ideas to get you started:
   **Talking about My Personal Stuffs :**
 
 
-- 🤔 an intermediator in web developement and familiar with programming
-- 💬 i am always available  to clear all your stuffs 
+- 🤔 An intermediator in web developement and familiar with programming.
+- 💬 I am always available  to clear all  stuffs  of yours.
 - 📫 Please email via arjunit2000@gmail.com to reach me.
 
 
