@@ -1,7 +1,7 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  I am [Arjun Kumar A S](https://www.linkedin.com/in//)
 
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
