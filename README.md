@@ -1,4 +1,4 @@
-### Hi there,<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  I am [Arjun Kumar A S](https://www.linkedin.com/in//)
+### Hi there,<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  I am [Arjun Kumar A S](https://www.linkedin.com/in/arjunkumar-a-s-5b2aa8206/)
 
 
 <!--Here are some ideas to get you started:
@@ -76,9 +76,9 @@
 
 <h3 align="left">Connect me through :</h3>
 <p align="left">
-<a href="https://twitter.com/kamesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kamesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kameshSV " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganapathysubramanian" height="30" width="40" /></a>
-<a href="https://fb.com/kamesh S V" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kamesh" height="30" width="40" /></a>
-<a href="https://instagram.com/kamesh212" rget="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kamesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kamesh_SV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kamesh" height="30" width="40" /></a>
+<!--<a href="https://twitter.com/kamesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kamesh" height="30" width="40" /></a>-->
+<a href="https://www.linkedin.com/in/arjunkumar-a-s-5b2aa8206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arjun" height="30" width="40" /></a>
+
+<a href="https://instagram.com/arjunasak" rget="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kamesh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Arjun Kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kamesh" height="30" width="40" /></a>
 </p>
