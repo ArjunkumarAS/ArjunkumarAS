@@ -45,7 +45,7 @@
 <br/>
 <br/>
 <br/>
-![Ganapathy's github stats](https://github-readme-stats.vercel.app/api?username=ganapathyda&show_icons=true&theme=radial)
+![Arjun Kumar's github stats](https://github-readme-stats.vercel.app/api?username=portfolio&show_icons=true&theme=radial)
 
 <br/>
 
