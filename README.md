@@ -45,7 +45,7 @@
 <br/>
 <br/>
 <br/>
-![Arjun Kumar's github stats](https://github-readme-stats.vercel.app/api?username=portfolio&show_icons=true&theme=radial)
+![Arjun Kumar's github stats](https://github-readme-stats.vercel.app/api?username=ArjunkumarAS&show_icons=true&theme=radial)
 
 <br/>
 
