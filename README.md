@@ -77,7 +77,7 @@
 <h3 align="left">Connect me through :</h3>
 <p align="left">
 <!--<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arjun" height="30" width="40" /></a>-->
-<a href="https://www.linkedin.com/in/arjunkumar-a-s-5b2aa8206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arjun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arjun-kumar-a-s-5b2aa8206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arjun" height="30" width="40" /></a>
 <a href="https://instagram.com/arjunasak" rget="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arjun" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arjunit2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arjun" height="30" width="40" /></a>
 </p>
