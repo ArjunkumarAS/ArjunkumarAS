@@ -1,4 +1,4 @@
-### Hi there,<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  I am [Arjun Kumar A S](https://www.linkedin.com/in/arjun-kumar-a-s-5b2aa8206/)
+### Hi there,<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  I am [Arjun Kumar A S](https://www.linkedin.com/in/arjun-kumar-a-s-5b2aa8206/) :)
 
 
 <!--Here are some ideas to get you started:
