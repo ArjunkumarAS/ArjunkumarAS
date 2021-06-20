@@ -14,7 +14,7 @@
 
 
 
-- I’m currently pursuing B.Tech Information Technology at [velammal college of engineering and technology](https://vcet.ac.in/)...
+- I’m currently pursuing B.Tech Information Technology at [Velammal College of Engineering and Technology](https://vcet.ac.in/).
 
 <p>
   <em>
